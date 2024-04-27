@@ -1,7 +1,7 @@
 import qrcode
 
 
-url_pagina_web = "https://www.tupaginaweb.com"
+url_pagina_web = "https://velozerick.github.io/Dulce-Encuentro/"
 
 
 qr = qrcode.QRCode(
